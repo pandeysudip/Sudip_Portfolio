@@ -1,5 +1,5 @@
 # Sudip_Portfolio
-Data Science Portfolio
+Data Science Projects Portfolio
 
 ## Welcome to Sudip Portfolio
 ## [Project 1: Data Science Salary Estimator](https://github.com/pandeysudip/ds_salary_proj)
