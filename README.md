@@ -1,5 +1,3 @@
-# Sudip_Portfolio
-Data Science Projects Portfolio
 
 ## Welcome to Sudip Data Science Projects Portfolio
 
