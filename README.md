@@ -1,7 +1,8 @@
 # Sudip_Portfolio
 Data Science Projects Portfolio
 
-## Welcome to Sudip Portfolio
+## Welcome to Sudip Data Science Projects Portfolio
+
 ## [Project 1: Data Science Salary Estimator](https://github.com/pandeysudip/ds_salary_proj)
 * Created a tool that estimates data science salaries (MAE ~ $ 13K) to help data scientists negotiate their income when they get a job.
 * Scraped over 200 job descriptions from glassdoor using python and selenium
